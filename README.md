@@ -1,8 +1,8 @@
 ### Vinicius Paredes Cabral
 
-Computer Engineering graduate (University of Murcia). Interested in algorithms, data
-structures, and backend/full-stack development — currently looking for a Student Software
-Engineer role.
+Started my degree in Computer Engineering at the University of Murcia; currently studying
+at BYU-Idaho. Interested in algorithms, data structures, and backend/full-stack development
+— currently looking for a Student Software Engineer role.
 
 **Links:** [links-ten-sepia.vercel.app](https://links-ten-sepia.vercel.app) · [Email](mailto:vinimp2003@gmail.com)
 
