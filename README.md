@@ -4,7 +4,7 @@ Started my degree in Computer Engineering at the University of Murcia; currently
 at BYU-Idaho. Interested in algorithms, data structures, and backend/full-stack development
 — currently looking for a Student Software Engineer role.
 
-**Links:** [links-ten-sepia.vercel.app](https://links-ten-sepia.vercel.app) · [Email](mailto:vinimp2003@gmail.com)
+**Links:** [portfolio.viniserver.com](https://portfolio.viniserver.com) · [Email](mailto:vinimp2003@gmail.com)
 
 ---
 
